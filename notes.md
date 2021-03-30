@@ -28,3 +28,7 @@ _1015601035_
 
 _1015612496_
 _1015612496_
+
+#### Black Label
+
+Steps are the same as above. However,the printer doesn't print specificly in the white window for the lables. The top of the document is printed black on black.
