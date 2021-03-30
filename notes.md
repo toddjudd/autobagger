@@ -13,7 +13,11 @@ Bag prints out with label (attach ZPL), air opens the bag, and it awaits for pro
 
 ## Actual Behavior
 
-Bag prints correctly on the label but
+Bag prints correctly on the label but, the printer errors
+
+```
+Print Format too Long, Adjust Format or Offest. Printer in Error!
+```
 
 ## Functional ZPL on Job 3
 
